@@ -14,3 +14,5 @@
 ```python
 print("hello")
 ```
+# 프로젝트 관련 이미지
+![이미지설명](./image/image.jpg)
